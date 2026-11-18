@@ -11,3 +11,5 @@ Je crée des sites internet, des applications web et des logiciels sur mesure po
 Rendez-vous en Valais sur demande, ou en visio partout dans le monde francophone.
 
 Services : site vitrine, site animé ou 3D, boutique en ligne, application web, chatbot, assistant IA, agent IA, automatisation, CRM et logiciel sur mesure.
+
+- Code des concepts : https://github.com/zacharyjaffe6-creator/elzak-realisations
